@@ -1,0 +1,37 @@
+body {
+    font-family: 'Old Standard TT', serif;
+    background-image: url('img/Elden-ring-logo.png'); /* Reemplaza con tu imagen de fondo */
+    background-size: cover;
+    color: #b19f66;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(56, 52, 18, 0.7);
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
